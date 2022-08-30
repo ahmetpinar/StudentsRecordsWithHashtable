@@ -1,0 +1,21 @@
+C:\Users\ahmet\Desktop\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\ahmet\Desktop\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\ahmet\Desktop\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\ahmet\Desktop\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\ahmet\Desktop\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\ahmet\Desktop\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\ahmet\Desktop\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\ahmet\Desktop\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\viyav\OneDrive\Masaüstü\Önceki Bilgisayar\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\viyav\OneDrive\Masaüstü\Önceki Bilgisayar\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\viyav\OneDrive\Masaüstü\Önceki Bilgisayar\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\viyav\OneDrive\Masaüstü\Önceki Bilgisayar\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\viyav\OneDrive\Masaüstü\Önceki Bilgisayar\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\obj\Debug\lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\viyav\OneDrive\Masaüstü\Önceki Bilgisayar\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\viyav\OneDrive\Masaüstü\Önceki Bilgisayar\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\viyav\OneDrive\Masaüstü\Önceki Bilgisayar\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\viyav\OneDrive\Masaüstü\Önceki Bilgisayar\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\viyav\OneDrive\Masaüstü\Önceki Bilgisayar\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\viyav\OneDrive\Masaüstü\Önceki Bilgisayar\20-21 Bahar Yazılım\YAZILIM GELİŞTİRME VE PROJE YÖNETİMİ\lab4\lab4\obj\Debug\lab4.pdb
